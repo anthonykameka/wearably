@@ -1,8 +1,12 @@
 # Wearables E-Commerce Project
+## Tech used
 MongoDB
 Express.js
 Node.js
 React.js
+
+## LIVE LINK
+https://e-commerce-zl6k.onrender.com/
 
 ## Getting Started
 To install, type "yarn install" in the main directory
